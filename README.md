@@ -1,7 +1,7 @@
 # Siemens-virtual-internship
 Completed Siemens Mobility Project Manager simulation on Forage. Developed KPIs, built Excel dashboards, and solved real-world project challenges. Gained hands-on experience in project tracking, data visualization, and stakeholder communication within rail infrastructure projects.
 
-# Certificate: https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/YtWaumzWHmKiqP63y/zSefEeEKvojiQqiaH_YtWaumzWHmKiqP63y_KjN2kPpBK3GAk7tm5_1756284181841_completion_certificate.pdf
+# Certificate:  https://shorturl.at/G2fa0
 ---
 
 ## Siemens Mobility Project Manager Simulation – Forage (August 2025)
