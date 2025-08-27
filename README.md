@@ -20,6 +20,19 @@ As part of the simulation, I was tasked with managing a rail infrastructure proj
 
 This project highlights my capability in **project planning, analytical thinking, data-driven decision-making, and stakeholder management** — all critical skills for a project management role in engineering, infrastructure, or mobility sectors.
 
+# Task 1
+1. Develop understanding about KPIs
+2. Understand projects details and its critical objectives
+3. Create KPIs that are aligned with project objectives
+4. Keeping KPIs SMART (specific, measurable, attainable, relevant, time bound)
+
+# Task 2
+1. Develop understanding of project quantitative & qualitative data
+2. Learned presentation techniques for project updates
+3. Using data reported in mails -> developed infographic project update dashboard for engaging stakeholders more effectively by enhancing readability and information retention
+
+ https://shorturl.at/9mvBU
+
 🔧 **Tools Used**:
 
 * Microsoft Excel
